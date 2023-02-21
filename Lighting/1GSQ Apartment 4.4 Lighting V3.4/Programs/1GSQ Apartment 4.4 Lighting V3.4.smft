@@ -1,0 +1,45 @@
+<Device Model="DIN-AP3">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="DIN-1DIMU4" DeviceId="11" Name="Enclosure 2 Slot 121"/>
+      <Device Model="DIN-1DIMU4" DeviceId="12" Name="Enclosure 2 Slot 133"/>
+      <Device Model="DIN-1DIMU4" DeviceId="13" Name="Enclosure 2 Slot 97"/>
+      <Device Model="DIN-1DIMU4" DeviceId="14" Name="Enclosure 2 Slot 109"/>
+      <Device Model="DIN-1DIMU4" DeviceId="15" Name="Enclosure 2 Slot 73"/>
+      <Device Model="DIN-2MC2" DeviceId="31" Name="Enclosure 3 Slot 121"/>
+      <Device Model="DIN-2MC2" DeviceId="32" Name="Enclosure 3 Slot 127"/>
+      <Device Model="C2N-UNI8IO" DeviceId="41" Name="LK01"/>
+      <Device Model="C2N-UNI8IO" DeviceId="42" Name="LK02"/>
+      <Device Model="C2N-UNI8IO" DeviceId="43" Name="LK03 - Utility"/>
+      <Device Model="C2N-UNI8IO" DeviceId="44" Name="LK04 - By Kitchen"/>
+      <Device Model="C2N-UNI8IO" DeviceId="45" Name="LK05 - Entrance"/>
+      <Device Model="C2N-UNI8IO" DeviceId="46" Name="LK06 - By Dining Room"/>
+      <Device Model="C2N-UNI8IO" DeviceId="47" Name="LK07 -  By Kitchen"/>
+      <Device Model="C2N-UNI8IO" DeviceId="48" Name="LK08 -  By Great Hall"/>
+      <Device Model="C2N-UNI8IO" DeviceId="49" Name="LK09 - By Dining"/>
+      <Device Model="C2N-UNI8IO" DeviceId="4A" Name="LK10"/>
+      <Device Model="C2N-UNI8IO" DeviceId="4B" Name="LK11 - By Bed 3 Dressing"/>
+      <Device Model="C2N-UNI8IO" DeviceId="4C" Name="LK12 - Laundry"/>
+      <Device Model="C2N-UNI8IO" DeviceId="4D" Name="LK13 - By Great Hall"/>
+      <Device Model="C2N-UNI8IO" DeviceId="4E" Name="LK14 - Entrance"/>
+      <Device Model="C2N-UNI8IO" DeviceId="4F" Name="LK15"/>
+      <Device Model="C2N-UNI8IO" DeviceId="50" Name="LK16"/>
+      <Device Model="C2N-UNI8IO" DeviceId="51" Name="LK17 - Entrance"/>
+      <Device Model="C2N-UNI8IO" DeviceId="52" Name="LK18 - RHS of Bed"/>
+      <Device Model="C2N-UNI8IO" DeviceId="53" Name="LK19 - LHS of Bed"/>
+      <Device Model="C2N-UNI8IO" DeviceId="54" Name="LK20 - LHS of Bed"/>
+      <Device Model="C2N-UNI8IO" DeviceId="55" Name="LK21 - RHS of Bed"/>
+      <Device Model="C2N-UNI8IO" DeviceId="56" Name="LK22 - Entrance"/>
+      <Device Model="C2N-UNI8IO" DeviceId="57" Name="LK23 - By Ensuite"/>
+      <Device Model="C2N-UNI8IO" DeviceId="58" Name="LK24"/>
+      <Device Model="C2N-UNI8IO" DeviceId="59" Name="LK25 - By Entrance"/>
+      <Device Model="C2N-UNI8IO" DeviceId="5A" Name="LK26 - Entrance"/>
+      <Device Model="C2N-UNI8IO" DeviceId="5B" Name="LK27 - By Ensuite"/>
+      <Device Model="C2N-UNI8IO" DeviceId="5C" Name="LK28 - Entrance"/>
+      <Device Model="C2N-UNI8IO" DeviceId="5D" Name="LK29 - RHS of Bed"/>
+      <Device Model="C2N-UNI8IO" DeviceId="5E" Name="LK30 - LHS of Bed"/>
+      <Device Model="DIN-DALI-2" DeviceId="A1" Name="Enclosure 1 Slot 121"/>
+      <Device Model="DIN-DALI-2" DeviceId="A2" Name="Enclosure 1 Slot 130"/>
+      <Device Model="DIN-DALI-2" DeviceId="A3" Name="Enclosure 1 Slot 97"/>
+   </Network>
+   <Network Type="Ethernet" Id="02"/>
+</Device>

@@ -1,0 +1,82 @@
+File Version	v3.05.00
+Modified Date	02/21/2023
+Modified Time	11:37:28
+
+LoadID	LoadName	RoomID	DIM_setting	Ramp_time	Upper_limit	Lower_limit	TotalWattage
+213	Downlights	21	True	500	100	1	100
+214	Mirror	21	True	500	100	1	100
+215	Downlights	5	True	500	100	1	100
+216	Undercabinets	5	True	500	100	1	100
+217	Cabinets	5	True	500	100	1	100
+219	DLs Main	22	True	500	100	1	100
+229	Mirror	18	True	500	100	1	100
+231	Ceiling Light	1	True	500	100	1	100
+236	Chandelier	6	True	500	100	1	100
+238	5 Amp	6	True	500	100	1	100
+239	Ceiling Light	22	True	500	100	1	100
+241	Ceiling Light	5	True	500	100	1	100
+242	Ceiling Light	10	True	500	100	1	100
+243	5 Amp LHS of Bed	10	True	500	100	1	100
+244	5 Amp RHS of Bed	10	True	500	100	1	100
+245	5 Amp	10	True	500	100	1	100
+246	Sconces	12	True	500	100	1	50
+247	Sconces	2	True	500	100	1	50
+249	5 Amp	16	True	500	100	1	100
+250	5 Amp RHS of Bed	16	True	500	100	1	100
+251	5 Amp LHS of Bed	16	True	500	100	1	100
+254	5 Amp	19	True	500	100	1	100
+265	Curtain Left	10	False	500	100	1	200
+266	Curtain Right	10	False	500	100	1	200
+67	5 Amp	9	True	500	100	1	100
+68	5 Amp LHS of Bed	9	True	500	100	1	100
+69	5 Amp RHS of Bed	9	True	500	100	1	100
+169	Coffer	1	True	500	100	1	100
+170	Downlights	14	True	500	100	1	100
+172	Downlights	15	True	500	100	1	100
+173	Downlights	2	True	500	100	1	100
+174	Mirror	2	True	500	100	1	100
+175	Under Sink	2	True	500	100	1	100
+176	Downlights	9	True	500	100	1	100
+177	Coffer Bath	7	True	500	100	1	100
+178	Downlight Centre	7	True	500	100	1	100
+179	Downlights	7	True	500	100	1	100
+181	Downlights	8	True	500	100	1	100
+183	Coffer Shower	18	True	500	100	1	100
+184	Downlight Centre	18	True	500	100	1	100
+185	Downlights	18	True	500	100	1	100
+186	DLs Right	6	True	500	100	1	100
+187	DLs Front	6	True	500	100	1	100
+188	DLs Rear	6	True	500	100	1	100
+189	DLs Left	6	True	500	100	1	100
+192	Downlights	10	True	500	100	1	100
+193	Downlights Large	11	True	500	100	1	100
+194	Downlights Small	11	True	500	100	1	100
+195	Coffer Bath	12	True	500	100	1	100
+196	Downlights	12	True	500	100	1	100
+197	Coffer Shower	12	True	500	100	1	100
+198	Niche	12	True	500	100	1	100
+199	Coffer WC	12	True	500	100	1	100
+200	Mirror	12	True	500	100	1	100
+201	Under Sink	12	True	500	100	1	100
+202	Coffer	4	True	500	100	1	100
+203	Downlights	4	True	500	100	1	100
+206	Downlights	16	True	500	100	1	100
+209	Downlights	19	True	500	100	1	100
+212	Downlight Centre	21	True	500	100	1	100
+283	Coffer Shower	21	True	500	100	1	100
+295	5 Amp	4	True	500	100	1	100
+329	Mirror	7	True	500	100	1	100
+330	DLs Entry	22	True	500	100	1	100
+331	Shelf Front	22	True	500	100	1	100
+332	Shelf Rear	22	True	500	100	1	100
+334	Downlights	3	True	500	100	1	100
+335	Downlights	24	True	500	100	1	100
+342	Downlights	20	True	500	100	1	100
+343	Downlights	17	True	500	100	1	100
+351	Blind Left	12	False	500	100	1	200
+352	Blind Right	12	False	500	100	1	200
+361	Sconces	23	True	500	100	1	50
+365	Picture Lights	19	True	500	100	1	100
+366	Ceiling Light	17	True	500	100	1	100
+367	Wall Lights	4	True	500	100	1	100
+
