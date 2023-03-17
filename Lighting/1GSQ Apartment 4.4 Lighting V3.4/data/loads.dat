@@ -1,6 +1,6 @@
 File Version	v3.05.00
-Modified Date	02/21/2023
-Modified Time	11:37:28
+Modified Date	03/17/2023
+Modified Time	13:21:12
 
 LoadID	LoadName	RoomID	DIM_setting	Ramp_time	Upper_limit	Lower_limit	TotalWattage
 213	Downlights	21	True	500	100	1	100
@@ -76,7 +76,8 @@ LoadID	LoadName	RoomID	DIM_setting	Ramp_time	Upper_limit	Lower_limit	TotalWattag
 351	Blind Left	12	False	500	100	1	200
 352	Blind Right	12	False	500	100	1	200
 361	Sconces	23	True	500	100	1	50
-365	Picture Lights	19	True	500	100	1	100
+365	Wall Lights	19	True	500	100	1	100
 366	Ceiling Light	17	True	500	100	1	100
 367	Wall Lights	4	True	500	100	1	100
+370	Chandalier	16	True	500	100	1	100
 
