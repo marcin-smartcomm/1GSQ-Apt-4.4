@@ -1,0 +1,31 @@
+File Version	v3.05.00
+Modified Date	05/15/2023
+Modified Time	16:13:26
+
+RoomID	AreaID	RoomName
+-1	-2	Equipment Room
+1	-2	Entry Foyer
+2	-2	Powder Room
+4	-2	Hall
+5	-2	Kitchen
+6	-2	Living Room
+7	-2	Bed 02 Ensuite
+8	-2	Bed 02 Dressing
+9	-2	Bed 02
+10	-2	Master Bed
+11	-2	Master Dressing
+12	-2	Master Ensuite
+13	-2	VKPs
+14	-2	Utility
+15	-2	Coat Room
+16	-2	Bed 03
+18	-2	Bed 03 Ensuite
+19	-2	Dining
+21	-2	Dining Ensuite
+22	-2	Lounge
+3	-2	Master Vestibule
+17	-2	Private
+20	-2	Bed 03 Dressing
+23	-2	Balcony
+24	-2	Laundry
+
