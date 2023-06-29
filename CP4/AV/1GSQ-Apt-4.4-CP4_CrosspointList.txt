@@ -1,4 +1,4 @@
-Crosspoint listing for C:\Users\marci\Dropbox (Smartcomm Ltd)\PC\Documents\Smartcomm\Projects\1GSQ-Apt-4.4\CP4\1GSQ-Apt-4.4-CP4.SMW
+Crosspoint listing for C:\Users\Marcin.Rycyk\Desktop\Smartcomm\PROJECTS\1GSQ-Apt-4.4\CP4\AV\1GSQ-Apt-4.4-CP4.SMW
 
 Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
 
